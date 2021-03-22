@@ -1,0 +1,13 @@
+E:\Semestr 6\SI\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.exe
+E:\Semestr 6\SI\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.deps.json
+E:\Semestr 6\SI\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.runtimeconfig.json
+E:\Semestr 6\SI\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.runtimeconfig.dev.json
+E:\Semestr 6\SI\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.dll
+E:\Semestr 6\SI\Lista2\Lista2\bin\Debug\netcoreapp3.1\Lista2.pdb
+E:\Semestr 6\SI\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.csprojAssemblyReference.cache
+E:\Semestr 6\SI\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.csproj.CoreCompileInputs.cache
+E:\Semestr 6\SI\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.AssemblyInfoInputs.cache
+E:\Semestr 6\SI\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.AssemblyInfo.cs
+E:\Semestr 6\SI\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.dll
+E:\Semestr 6\SI\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.pdb
+E:\Semestr 6\SI\Lista2\Lista2\obj\Debug\netcoreapp3.1\Lista2.genruntimeconfig.cache
